@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an ultrasound researcher specializing in developing integrated systems and computational tools for medical imaging, non-invasive therapy, image-guided intervention, and wearable devices.
+I am currently a postdoc scholar in the Department of Radiology at Stanford University, working with [Prof. Katherine W. Ferrara](https://med.stanford.edu/profiles/katherine-ferrara). I completed my Ph.D. in Biomedical Engineering and Scientific Computing (joint degree) at the University of Michigan in 2023 under the supervision of Prof. Zhen Xu (https://bme.umich.edu/people/xu-zhen/), working on MR-guided transcranial histotripsy for non-invasive brain therapy. Previously, I earned my B.S. degree (with Honors) in Biomedical Engineering from Southeast University (SEU), Nanjing, China, in 2018. There I was selected into the Chien-Shiung Wu College (an Honor program named after the world-renowned physicist and SEU alumna) as one of the top 30 engineering undergraduates in Class 2018.
+
+My research interests include Biomedical Ultrasound, Image-guided Therapy, Imaging Instrumentation, AI-Powered Imaging Algorithms, Parallel Computing, and Ultrasound Wearable Devices. Please feel free to contact me if you are interested in our research! 
+
+
+<h2>I am currently on the job market.</h2>
+
 
 A data-driven personal website
 ======
