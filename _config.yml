@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ning Lu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -27,8 +27,8 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Palo Alto, CA"
   employer         : "Stanford University"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : "https://ninglu-ultrasound.github.io/"
+  email            : "ningluu@stanford.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
