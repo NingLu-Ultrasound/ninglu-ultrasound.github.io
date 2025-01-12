@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Guest Lecturer: 3D+ Imaging Sensors"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "EE 119/219 (undergraduate & graduate course)"
+permalink: https://ee219.stanford.edu/
+venue: "Stanford University, Department of Electrical Engineering"
+date: 2024-05-13
+location: "Palo Alto, CA, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
