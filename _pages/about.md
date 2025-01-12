@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoc scholar in the Department of Radiology at Stanford University, working with [Prof. Katherine W. Ferrara](https://med.stanford.edu/profiles/katherine-ferrara). I completed my Ph.D. in Biomedical Engineering and Scientific Computing (joint degree) at the University of Michigan in 2023 under the supervision of [Prof. Zhen Xu](https://bme.umich.edu/people/xu-zhen/), working on MR-guided transcranial histotripsy for non-invasive brain therapy. Previously, I earned my B.S. degree (with Honors) in Biomedical Engineering from Southeast University, Nanjing, China, in 2018. 
+I am currently a postdoc scholar in the Department of Radiology at Stanford University, working with [Prof. Katherine W. Ferrara](https://med.stanford.edu/profiles/katherine-ferrara) on developing high-resolution 3D+ ultrasound imaging with large aperture arrays for diagnosis and interventional guidance. I completed my Ph.D. in Biomedical Engineering and Scientific Computing (joint degree) at the University of Michigan in 2023 under the supervision of [Prof. Zhen Xu](https://bme.umich.edu/people/xu-zhen/), working on MR-guided transcranial [histotripsy](https://histotripsy.umich.edu/) for non-invasive brain therapy. Prior to that, I earned my B.S. degree (with Honors) in Biomedical Engineering from Southeast University, Nanjing, China, in 2018. 
 
-My research interests include Biomedical Ultrasound, Image-guided Therapy, Imaging Instrumentation, AI-Powered Imaging Algorithms, Parallel Computing, and Ultrasound Wearable Devices. Please feel free to contact me if you are interested in our research! 
+My research interests include biomedical ultrasound, image-guided therapy and interventions, medical instrumentation, AI-powered imaging algorithms, parallel computing, and wearable devices and sensors. As a systems engineer, I have extensive experience across the entire system development cycle—from ideation, design, and simulation/modeling to building hardware and software and testing systems in clinical settings for target applications.
 
+I am deeply passionate about creating solutions that deliver meaningful impact for patients and users. I believe that for every engineering or research challenge, a solution—or an analog to it—exists, often outside the narrow scope of our specific field. By learning from one another across disciplines, we can unlock the keys to innovative solutions together. If you're interested in learning more about my research or collaborating on exciting projects, feel free to reach out!
 
-<h2>I am currently on the job market.</h2>
+<h2>I am currently on the job market for tenure-track faculty position and senior engineer role in industry.</h2>
 
 Recent news
 ======
