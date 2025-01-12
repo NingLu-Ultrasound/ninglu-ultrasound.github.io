@@ -19,8 +19,7 @@ My research interests include biomedical ultrasound, image-guided therapy and in
 I am deeply passionate about creating solutions that deliver meaningful impact for patients and users. I believe that for every engineering or research challenge, a solution—or an analog to it—exists, often outside the narrow scope of our specific field. By learning from one another across disciplines, we can unlock the keys to innovative solutions together. If you're interested in learning more about my research or collaborating on exciting projects, feel free to reach out!
 
 
-Recent news
-======
+## Recent news
 
 * 10-01-2024: I am currently on the job market looking for tenure-track faculty position or senior engineer/research scientist role in industry.
 * 09-22-2024: I attended IEEE UFFC-JS 2024 in Taipei, presenting 2 oral talks in the 3D Imaging session.
