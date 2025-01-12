@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "CV"
+excerpt: "Last update: 12/05/2024"
 collection: portfolio
+paperurl: 'http://ninglu-ultrasound.github.io/files/2_NLcv_faculty_2024_v7.pdf' 
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
