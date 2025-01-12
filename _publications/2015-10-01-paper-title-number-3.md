@@ -3,7 +3,6 @@ title: "Two-step aberration correction: application to transcranial histotripsy"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2022-06-10
 venue: 'Physics in Medicine & Biology'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
