@@ -2,7 +2,7 @@
 title: "Transcranial MR-Guided Histotripsy System"
 collection: publications
 category: manuscripts
-permalink: /publication/Pub1_Transcranial_MR-Guided_Histotripsy_System
+permalink: /publication/2009-10-01-paper-title-number-1
 date: 2021
 venue: 'IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (Front Cover Article)'
 paperurl: 'http://ninglu-ultrasound.github.io/files/Pub1_Transcranial_MR-Guided_Histotripsy_System.pdf' 
