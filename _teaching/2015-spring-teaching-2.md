@@ -8,11 +8,6 @@ date: 2023-01-01
 location: "Ann Arbor, MI, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant for ultrasound lab.
 
-Heading 1
-======
-
-Heading 2
-======
 
