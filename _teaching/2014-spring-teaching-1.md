@@ -16,6 +16,7 @@ This lecture will introduce students to state-of-the-art topics in the field of 
 
 Course Summary
 ======
+#### Instructors: Sherif Ahmed & Amin Arbabian
 
 Unlike conventional imaging courses, the content is not limited to a specific sensor modality, instead, the lectures and labs broadly cover technical terms related to any multidimensional imaging sensors, such as Lidar, time-of-flight (ToF) camera, radar, and ultrasound. This course also has labs and projects, offering fun hands-on experiments. You will have the opportunity to propose and implement a designed project. Past cool projects include:
 
@@ -29,7 +30,6 @@ What students said:
 * "This is the most fun technical class I've taken at Stanford"
 * "I would highly recommend this class for people interested in sensors used for imaging in automotive and robotics applications. We learn about ultrasonic, Time of Flight (TOF), Radar, and Lidar sensors and their applications. Labs also reinforced material and were one of the first labs I actively enjoyed as you get to work with the sensors and see how they operate."
 
-### Instructors: Sherif Ahmed & Amin Arbabian
 
 Click [here](https://ee219.stanford.edu/) for the official course website.
 
