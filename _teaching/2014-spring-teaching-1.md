@@ -29,9 +29,7 @@ What students said:
 * "This is the most fun technical class I've taken at Stanford"
 * "I would highly recommend this class for people interested in sensors used for imaging in automotive and robotics applications. We learn about ultrasonic, Time of Flight (TOF), Radar, and Lidar sensors and their applications. Labs also reinforced material and were one of the first labs I actively enjoyed as you get to work with the sensors and see how they operate."
 
-Instructors: Sherif Ahmed & Amin Arbabian
+### Instructors: Sherif Ahmed & Amin Arbabian
 
 Click [here](https://ee219.stanford.edu/) for the official course website.
 
-Heading 3
-======
