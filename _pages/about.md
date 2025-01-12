@@ -11,6 +11,8 @@ redirect_from:
 I am currently a postdoc scholar in the Department of Radiology at Stanford University, working with [Prof. Katherine W. Ferrara](https://med.stanford.edu/profiles/katherine-ferrara) on developing high-resolution 3D+ ultrasound imaging for diagnosis and interventional guidance. I completed my Ph.D. in Biomedical Engineering and Scientific Computing (joint degree) at the University of Michigan in 2023 under the supervision of [Prof. Zhen Xu](https://bme.umich.edu/people/xu-zhen/), working on MR-guided transcranial [histotripsy](https://histotripsy.umich.edu/) for non-invasive brain therapy. Prior to that, I earned my B.S. degree (with Honors) in Biomedical Engineering from Southeast University, Nanjing, China, in 2018. 
 
 
+## Research Interest and Philosophy
+
 My research interests include biomedical ultrasound, image-guided therapy and interventions, medical instrumentation, AI-powered imaging algorithms, parallel computing, and wearable devices and sensors. As a systems engineer, I have experience across the entire system development cycle—from ideation, design, and simulation/modeling to building hardware and software and testing systems in clinical settings for target applications.
 
 
