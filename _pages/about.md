@@ -13,10 +13,10 @@ I am currently a postdoc scholar in the Department of Radiology at Stanford Univ
 
 ## Research Interest and Philosophy
 
-My research interests include biomedical ultrasound, image-guided therapy and interventions, medical instrumentation, AI-powered imaging algorithms, parallel computing, and wearable devices and sensors. As a systems engineer, I have experience across the entire system development cycle—from ideation, design, and simulation/modeling to building hardware and software and testing systems in clinical settings for target applications.
+My research interests include biomedical ultrasound, image-guided therapy and interventions, medical instrumentation, parallel computing, AI-powered imaging algorithms, and wearable devices and sensors. My long-term career goal is to develop high-precision, affordable, personalized solutions for diagnosis, therapy, and health monitoring. 
 
 
-I am deeply passionate about creating solutions that deliver meaningful impact for patients and users. I believe that for every engineering or research challenge, a solution—or an analog to it—exists, often outside the narrow scope of our specific field. By learning from one another across disciplines, we can unlock the keys to innovative solutions together. If you're interested in learning more about my research or collaborating on exciting projects, feel free to contact me!
+As a systems engineer, I have experience across the entire system development cycle—from ideation, design, and simulation/modeling to building hardware and software and testing systems in clinical settings for target applications. I am deeply passionate about creating solutions that deliver meaningful impact for patients and users. I believe that for every engineering or research challenge, a solution—or an analog to it—exists, often outside the narrow scope of our specific field. By learning from one another across disciplines, we can unlock the keys to innovative solutions together. If you're interested in learning more about my research or collaborating on exciting projects, feel free to contact me! 
 
 
 ## Recent news
