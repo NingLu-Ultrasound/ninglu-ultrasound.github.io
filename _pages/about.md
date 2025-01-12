@@ -14,7 +14,7 @@ My research interests include biomedical ultrasound, image-guided therapy and in
 
 I am deeply passionate about creating solutions that deliver meaningful impact for patients and users. I believe that for every engineering or research challenge, a solution—or an analog to it—exists, often outside the narrow scope of our specific field. By learning from one another across disciplines, we can unlock the keys to innovative solutions together. If you're interested in learning more about my research or collaborating on exciting projects, feel free to reach out!
 
-<h2>I am currently on the job market for tenure-track faculty position and senior engineer role in industry.</h2>
+<h2>I am currently on the job market looking for tenure-track faculty position or senior engineer role in industry.</h2>
 
 Recent news
 ======
