@@ -21,7 +21,7 @@ repository               : "ninglu-ultrasound/ninglu-ultrasound.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "githubavatar.png"
+  avatar           : "files/githubavatar.png"
   name             : "Ning Lu"
   pronouns         : # example: "she/her"  
  # bio              : "Short biography for the left-hand sidebar"
