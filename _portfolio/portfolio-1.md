@@ -1,6 +1,6 @@
 ---
-title: "CV"
+## CV
 excerpt: "Last update: 12/05/2024"
 collection: portfolio
-paperurl: 'http://ninglu-ultrasound.github.io/files/2_NLcv_faculty_2024_v7.pdf' 
+slidesurl: 'http://ninglu-ultrasound.github.io/files/2_NLcv_faculty_2024_v7.pdf' 
 ---
