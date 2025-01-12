@@ -2,7 +2,7 @@
 title: "Transcranial magnetic resonance-guided histotripsy for brain surgery: pre-clinical investigation"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: https://www.sciencedirect.com/science/article/abs/pii/S030156292100404X
 date: 2022-01-01
 venue: 'Ultrasound in medicine & biology'
 paperurl: 'http://ninglu-ultrasound.github.io/files/Pub2_Transcranial_MR-Guided_Histotripsy_pig_Surgery.pdf' 
