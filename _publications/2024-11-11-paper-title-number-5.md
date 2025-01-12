@@ -1,12 +1,12 @@
 ---
-title: "Two-step aberration correction: application to transcranial histotripsy"
+title: "Treatment envelope of transcranial histotripsy: challenges and strategies to maximize the treatment location profile"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-date: 2022-06-10
+permalink: https://iopscience.iop.org/article/10.1088/1361-6560/ad8d9f/meta
+date: 2024-11-11
 venue: 'Physics in Medicine & Biology'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'N. Lu, et al. (2022). &quot;Two-step aberration correction: application to transcranial histotripsy.&quot; <i>Physics in Medicine & Biology</i>. 67(12).'
+paperurl: 'http://ninglu-ultrasound.github.io/files/Pub4_Lu_2024_Phys._Med._Biol._69_225006.pdf' 
+citation: 'N. Lu, et al. (2024). &quot;Treatment envelope of transcranial histotripsy: challenges and strategies to maximize the treatment location profile.&quot; <i>Physics in Medicine & Biology</i>. 69(22).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
