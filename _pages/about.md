@@ -20,8 +20,6 @@ I am deeply passionate about creating solutions that deliver meaningful impact f
 Recent news
 ======
 
-```bash
 * 10-01-2024: I am currently on the job market looking for tenure-track faculty position or senior engineer/research scientist role in industry.
 * 09-22-2024: I attended IEEE UFFC-JS 2024 in Taipei, presenting 2 oral talks in the 3D Imaging session.
 
-```
