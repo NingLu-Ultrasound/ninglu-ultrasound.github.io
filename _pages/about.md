@@ -20,7 +20,7 @@ As a systems engineer, I have experience across the entire system development cy
 
 
 ## Recent news
-
+* 10-29-2024: I've been appointed as the Deputy Chair of the IEEE UFFC-S Publicity Committee. If you have any ideas for promoting the UFFC Society or highlighting recent breakthroughs in the ultrasound field, please feel free to share them with me!
 * 10-01-2024: I am currently on the job market looking for tenure-track faculty position or senior engineer/research scientist role in industry.
 * 09-22-2024: I attended IEEE UFFC-JS 2024 in Taipei, presenting 2 oral talks in the 3D Imaging session.
 
