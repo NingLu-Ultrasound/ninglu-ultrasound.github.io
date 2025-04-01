@@ -39,6 +39,7 @@ author:
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  researchgate     : # URL
 
+
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
@@ -57,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         :"https://www.linkedin.com/in/luning613141/?locale=en_US"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
