@@ -5,7 +5,7 @@ category: manuscripts
 permalink: https://www.science.org/doi/10.1126/sciadv.adw2601
 date: 2025-07-25
 venue: 'Science Advances'
-paperurl: 'http://ninglu-ultrasound.github.io/files/sciadv.adw2601.pdf' 
+paperurl: 'http://ninglu-ultrasound.github.io/files/sciadv_adw2601.pdf' 
 citation: 'N. Lu, et al. (2025). &quot;Improving real-time ultrasound spine imaging with a large-aperture array.&quot; <i>Sci. Adv.</i>. 11,eadw2601.'
 
 ---
