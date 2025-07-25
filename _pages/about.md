@@ -20,7 +20,7 @@ As a systems engineer, I have experience across the entire system development cy
 
 
 ## Recent news
-* 07-25-2025: I will be attending IUS 2025 in person. Looking forward to meet everyone at Utrecht in September!
+* 07-25-2025: I will be attending IUS 2025 in person. Looking forward to meeting everyone at Utrecht in September!
 * 06-25-2025: My postdoc work entitled "Improving real-time ultrasound spine imaging with a large-aperture array" is now published in Science Advances! 
 * 10-29-2024: I've been appointed as the Deputy Chair of the IEEE UFFC-S Publicity Committee. If you have any ideas for promoting the UFFC Society or highlighting recent breakthroughs in the ultrasound field, please feel free to share them with me!
 * 09-22-2024: I attended IEEE UFFC-JS 2024 in Taipei, presenting 2 oral talks in the 3D Imaging session.
