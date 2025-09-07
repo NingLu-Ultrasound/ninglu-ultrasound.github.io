@@ -20,8 +20,9 @@ As a systems engineer, I have experience across the entire system development cy
 
 
 ## Recent news
-* 07-25-2025: I will be attending IUS 2025 in person. Looking forward to meeting everyone at Utrecht in September!
-* 06-25-2025: My postdoc work entitled "Improving real-time ultrasound spine imaging with a large-aperture array" is now published in Science Advances! 
+* 09-05-2025: I will be attending IUS 2025 in person. Looking forward to meeting everyone at Utrecht in September!
+* 08-30-2025：Stanford Radiology highlighted my work on spine imaging using a large-aperture array. Read more [here](https://med.stanford.edu/radiology/news/2025-news/a-new-approach-towards-real-time--panoramic-ultrasound-imaging-o.html).
+* 07-25-2025: My postdoc work entitled "Improving real-time ultrasound spine imaging with a large-aperture array" is now published in Science Advances! 
 * 10-29-2024: I've been appointed as the Deputy Chair of the IEEE UFFC-S Publicity Committee. If you have any ideas for promoting the UFFC Society or highlighting recent breakthroughs in the ultrasound field, please feel free to share them with me!
 * 09-22-2024: I attended IEEE UFFC-JS 2024 in Taipei, presenting 2 oral talks in the 3D Imaging session.
 * 08-01-2024: I am currently on the job market looking for tenure-track faculty position or senior engineer/research scientist role in industry.
