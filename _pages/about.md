@@ -20,7 +20,7 @@ As a systems engineer, I have experience across the entire system development cy
 
 
 ## Recent news
-* 11-14-2025：I will be in Chicago for RNSA 2025 from Nov. 28 to Dec. 3. Looking forward to connecting with everyone there!
+* 11-14-2025: I will be in Chicago for RNSA 2025 from Nov. 28 to Dec. 3. Looking forward to connecting with everyone there!
 * 09-05-2025: I will be attending IUS 2025 in person. Looking forward to meeting everyone at Utrecht in September!
 * 08-30-2025: Stanford Radiology highlighted my work on spine imaging using a large-aperture array. Read more [here](https://med.stanford.edu/radiology/news/2025-news/a-new-approach-towards-real-time--panoramic-ultrasound-imaging-o.html).
 * 07-25-2025: My postdoc work entitled "Improving real-time ultrasound spine imaging with a large-aperture array" is now published in Science Advances! 
