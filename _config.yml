@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Ning Lu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ning Lu"
 description              : &description "personal description"
 url                      : https://ninglu-ultrasound.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "githubavatar.png" 
   name             : "Ning Lu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "She/Her"  
  # bio              : "Short biography for the left-hand sidebar"
   location         : " Bellevue, WA"
 #  employer         : "Stanford University"
