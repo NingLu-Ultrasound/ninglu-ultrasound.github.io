@@ -20,7 +20,7 @@ As a systems engineer, I have experience across the entire system development cy
 
 
 ## Recent news
-* 05-07-2026: I will be joining Case Western Reserve University as a tenure-track Assistant Professor in the Department of Biomedical Engineering! In the Lu Biomedical Ultrasound Lab, we will work at the intersection of ultrasound hardware, algorithms, and clinical translation to develop technologies for precise diagnosis, non-invasive therapy, and health monitoring. We will be recruiting new members across all levels. Please stay tuned for the new lab website. Feel free to reach out if you are interested in joining or collaborating!
+* 05-07-2026: I will be joining Case Western Reserve University as a tenure-track Assistant Professor in the Department of Biomedical Engineering! In the Lu Biomedical Ultrasound Lab, we will work at the intersection of ultrasound hardware, algorithms, and clinical translation to develop technologies for precise diagnosis, non-invasive therapy, and health monitoring. We will be **recruiting new members across all levels**. Please stay tuned for the new lab website. Feel free to reach out if you are interested in joining or collaborating!
 * 11-14-2025: I will be in Chicago for RNSA 2025 from Nov. 28 to Dec. 3. Looking forward to connecting with everyone there.
 * 09-05-2025: I will be attending IUS 2025 in person. Looking forward to meeting everyone at Utrecht in September!
 * 08-30-2025: Stanford Radiology highlighted my work on spine imaging using a large-aperture array. Read more [here](https://med.stanford.edu/radiology/news/2025-news/a-new-approach-towards-real-time--panoramic-ultrasound-imaging-o.html).
