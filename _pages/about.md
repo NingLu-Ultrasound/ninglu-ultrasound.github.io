@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior ultrasound engineer at United Imaging Healthcare - North America. Previously, I worked as a postdoc scholar in the Department of Radiology at Stanford University with [Prof. Katherine W. Ferrara](https://med.stanford.edu/profiles/katherine-ferrara) on developing high-resolution 3D+ ultrasound imaging for diagnosis and interventional guidance. I completed my Ph.D. in Biomedical Engineering and Scientific Computing (joint degree) at the University of Michigan in 2023 under the supervision of [Prof. Zhen Xu](https://bme.umich.edu/people/xu-zhen/), working on MR-guided transcranial [histotripsy](https://histotripsy.umich.edu/) for non-invasive brain therapy. Prior to that, I earned my B.S. degree (with Honors) in Biomedical Engineering from Southeast University, Nanjing, China, in 2018. 
+I am an incoming Assistant Professor of Biomedical Engineering at Case Western Reserve University. Currently, I work as a senior ultrasound engineer at United Imaging Healthcare - North America. I completed my postdoc training in the Department of Radiology at Stanford University with [Prof. Katherine W. Ferrara](https://med.stanford.edu/profiles/katherine-ferrara) on developing high-resolution 3D+ ultrasound imaging for diagnosis and interventional guidance. I completed my Ph.D. in Biomedical Engineering and Scientific Computing (joint degree) at the University of Michigan in 2023 under the supervision of [Prof. Zhen Xu](https://bme.umich.edu/people/xu-zhen/), working on MR-guided transcranial [histotripsy](https://histotripsy.umich.edu/) for non-invasive brain therapy. Prior to that, I earned my B.S. degree (with Honors) in Biomedical Engineering from Southeast University, Nanjing, China, in 2018. 
 
 
 ## Research Interest and Philosophy
@@ -20,7 +20,8 @@ As a systems engineer, I have experience across the entire system development cy
 
 
 ## Recent news
-* 11-14-2025: I will be in Chicago for RNSA 2025 from Nov. 28 to Dec. 3. Looking forward to connecting with everyone there!
+* 05-07-2026: I will be joining Case Western Reserve University as a tenure-track Assistant Professor in the Department of Biomedical Engineering! In the Lu Biomedical Ultrasound Lab, we will work at the intersection of ultrasound hardware, algorithms, and clinical translation to develop technologies for precise diagnosis, non-invasive therapy, and health monitoring. We will be recruiting new members across all levels. Please stay tuned for the new lab website. Feel free to reach out if you are interested in joining or collaborating!
+* 11-14-2025: I will be in Chicago for RNSA 2025 from Nov. 28 to Dec. 3. Looking forward to connecting with everyone there.
 * 09-05-2025: I will be attending IUS 2025 in person. Looking forward to meeting everyone at Utrecht in September!
 * 08-30-2025: Stanford Radiology highlighted my work on spine imaging using a large-aperture array. Read more [here](https://med.stanford.edu/radiology/news/2025-news/a-new-approach-towards-real-time--panoramic-ultrasound-imaging-o.html).
 * 07-25-2025: My postdoc work entitled "Improving real-time ultrasound spine imaging with a large-aperture array" is now published in Science Advances!
