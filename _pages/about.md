@@ -35,4 +35,3 @@ As a systems engineer, I have experience across the entire system development cy
 
 
 
-<a href="https://clustrmaps.com/site/1c4kw"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=jR6fj13NhyLnA9VMMH3swhSYmRGX4lCrfzyeFAedrFA&cl=ffffff" /></a>
